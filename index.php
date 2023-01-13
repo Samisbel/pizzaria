@@ -1,2 +1,2 @@
 <?php
-echo $Bom dia;
+echo "Correção";
